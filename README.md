@@ -1,1 +1,1 @@
-# Analysing sales data in Tableaufor Atliq Hardware
+# Analysing sales data in Tableau for Atliq Hardware
