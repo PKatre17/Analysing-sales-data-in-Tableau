@@ -10,6 +10,7 @@ The owner of Atliq Hardware needs to understand how the company is doing and he'
 
 ## Process
 - Received the data from GitHub
+- Joined the tables using Inner Join
 - Cleaned the data in Tableau itself
 - Made calculated fields wherever needed
 - Built a dashboard to visualize the insights that are not visible just by looking at the data
